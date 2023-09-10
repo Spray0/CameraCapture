@@ -1,1 +1,16 @@
-﻿
+﻿  main.cpp
+C:\Users\spray0\Documents\opencv\build\include\opencv2\objdetect\aruco_board.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\spray0\Desktop\CameraCapture\cal_fps.h(55,51): warning C4244: “参数”: 从“_Rep”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=double
+          ]
+C:\Users\spray0\Desktop\CameraCapture\main.cpp(44,39): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+C:\Users\spray0\Desktop\CameraCapture\main.cpp(60,27): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+C:\Users\spray0\Desktop\CameraCapture\main.cpp(61,29): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+C:\Users\spray0\Desktop\CameraCapture\main.cpp(62,30): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  CameraCapture.vcxproj -> C:\Users\spray0\Desktop\CameraCapture\x64\Debug\CameraCapture.exe
